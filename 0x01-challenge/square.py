@@ -1,5 +1,9 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+"""
+@author: Kehinde Bandipo
+"""
+
 
 class Square():
     """Defining the class Square
